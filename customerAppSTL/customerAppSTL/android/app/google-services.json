@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309314706836",
+    "project_id": "mightyfood-4628d",
+    "storage_bucket": "mightyfood-4628d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309314706836:android:2011ee619725d9bae34381",
+        "android_client_info": {
+          "package_name": "com.mighty.menues"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTg0kihr1qsBm7tDMKrN02gijcQ8KYOT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
